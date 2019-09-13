@@ -3,6 +3,7 @@ using Laboratorio_4_OOP_201902.Enums;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Random;
 
 namespace Laboratorio_4_OOP_201902
 {
